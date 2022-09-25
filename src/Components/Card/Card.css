@@ -1,0 +1,13 @@
+.card {
+    width: 290px;
+    box-shadow: 31px 26px 19px 0px #181616;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+
+.cardnmae {
+    padding: 0;
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-bottom: 0;
+}
